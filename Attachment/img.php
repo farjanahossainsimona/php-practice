@@ -6,6 +6,7 @@ if(isset($_POST['submit'])){
     // print_r($_FILES['upload_img']);
 }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
